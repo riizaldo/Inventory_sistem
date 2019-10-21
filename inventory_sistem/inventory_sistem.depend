@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571049060 source:g:\zedl\gameprogramming\bahan_uts\inventory_sistem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1571626574 source:d:\zedl\gameprogramming\bahan_uts\inventory_sistem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+
